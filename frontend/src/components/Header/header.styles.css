@@ -1,0 +1,14 @@
+.header {
+    background-color: "#400CCC";
+}
+
+.logo {
+    font-family: "Work Sans, sans-serif";
+    font-weight: 600;
+    text-align: "left";
+}
+
+.link {
+    text-decoration: none;
+    color: #FFFEFE;
+}
